@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  UnlimitedCounts
+
+  Created by EUGENE on 2/11/19.
+  Copyright © 2019 Eugene Zloba. All rights reserved.
+*/
+"create_text" = "Create";
+"done_text" = "Done";
+"create_first_counter_text" = "Create Your First Counter";
+"total_text" = "Total:";
+"date_text" = "Date";
+"back_text" = "Back";
+"make_new_number_text" = "Make New Number";
+"add_text" = "Add";
+"show_all_text" = "Show All";
